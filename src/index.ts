@@ -2,7 +2,7 @@ import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { z } from "zod";
 
 // ESPN MCP Server — Tool declarations
-// Full implementation runs on Apify Standby: https://apify.com/mrbridge/espn-mcp-server
+// Full implementation runs on Apify Standby: https://apify.com/mrbridge/espn-mcp-server?fpr=mrbridge
 
 const server = new McpServer({
   name: "espn-mcp-server",
