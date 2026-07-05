@@ -1,7 +1,7 @@
 {
   "name": "@mrbridge/mcp-server-espn",
   "version": "1.0.0",
-  "description": "MCP server hosted on Apify — see README for details",
+  "description": "MCP server hosted on Apify - see README for details",
   "type": "module",
   "main": "src/index.ts",
   "dependencies": {

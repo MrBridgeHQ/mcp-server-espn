@@ -9,7 +9,7 @@
 
 ## What does it do?
 
-ESPN MCP Server connects AI assistants directly to ESPN's real-time sports data. It exposes **12 specialized tools** covering live scores, standings, boxscores, betting odds, player stats, team rosters, schedules, rankings, and news — all accessible through natural language prompts.
+ESPN MCP Server connects AI assistants directly to ESPN's real-time sports data. It exposes **12 specialized tools** covering live scores, standings, boxscores, betting odds, player stats, team rosters, schedules, rankings, and news - all accessible through natural language prompts.
 
 **No ESPN API key required.** Just connect and ask.
 
