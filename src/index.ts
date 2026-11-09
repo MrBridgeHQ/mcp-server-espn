@@ -6,7 +6,7 @@ import { z } from "zod";
 
 const server = new McpServer({
   name: "espn-mcp-server",
-  version: "0.1.0",
+  version: "0.2.3",
 });
 
 const tz = z.string().optional().describe("IANA timezone, for example Europe/Paris. Defaults to America/New_York.");
